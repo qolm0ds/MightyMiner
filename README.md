@@ -34,7 +34,5 @@ Their combined expertise and passion for Hypixel Skyblock drive the continuous i
 2. Follow the setup instructions provided in the `INSTALL.md` file (WIP).
 3. Enjoy effortless mining with MightyMinerV2!
 
-## Support
-For support, bug reports, or feature requests, feel free to open an issue in the repository or join our [community Discord channel](https://discord.gg/6mSHC2Xd9y).
 
 
